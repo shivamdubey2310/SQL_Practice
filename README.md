@@ -72,7 +72,7 @@ Typical joins you will use:
 pip install pandas faker tqdm
 ```
 
-### 3. Generate Data (Optional)
+### 3. Generate Data
 
 If you want fresh CSV files, run:
 
